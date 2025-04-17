@@ -1,3 +1,14 @@
+# File Name : CSVUtilities
+# Student Name: Asfia Siddiqui, Zoha Iqbal
+# email:  siddiqaf@mail.uc.edu, iqbalza@mail.uc.edu
+# Assignment Number: Assignment 11
+# Due Date:   04/17/2025
+# Course #/Section:   IS4010-001
+# Semester/Year:   Spring 2025
+# Brief Description of the assignment:  Cleans out data to give cleaner data
+# Brief Description of what this module does. Makes the gross price have 2 decimel places
+# Citations: chatgpt.com
+# Anything else that's relevant:
 import csv
 
 class CSVUtilities:
