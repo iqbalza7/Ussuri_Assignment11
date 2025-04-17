@@ -1,0 +1,6 @@
+extra credit
+the address formats are not consistent with address, city, state
+some cells are aligned to the left while others are the right
+there is different formats variations like for gas type LNG and lng
+the time does not have am or pm to indicate more accurately and have its own column
+the fuel quantity are not consistently formatted

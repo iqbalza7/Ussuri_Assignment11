@@ -49,10 +49,12 @@
     <Folder Include="data\" />
     <Folder Include="CSVUtilitiesPackage\" />
     <Folder Include="dataProcessingPackage\" />
+    <Folder Include="extra credit\" />
     <Folder Include="pepsiPackage\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="data\fuelPurchaseData.csv" />
+    <Content Include="extra credit\extra credit.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
